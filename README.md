@@ -66,6 +66,7 @@
 
 ![Диаграмма классов](https://img.plantuml.biz/plantuml/png/bLLTYzDG47qlz3zSykAksaLVzsa5NttIFr1ih85k2sry4g5DnMLP8Qu8YkWkek1hhBrk-f7Rlp3t7tbcacQJsbYMG9DxPyxCcJDpRuy6VhFllpZkr6k-vtTSHTzfPOTaxAazfmHFP4D5KuefejymHBJ44ocQqmAsaHsHeObowAUiWZM2pJ4MCRuYH-qzQ7k8_gZNSZjUjxrVhzLhJplDmK3H9G1luASfiO5wMQyfvRNAknGTgiT-7q2sqW_wH1V57NXevDFsDSWarvPNXJJlKCGofSGykHJ0Z1tcAIizTgLlDFZt3fTECq1Y-W8-K_gC04C46k_jYuDeTGK3ujgt5KvmY6Z553AthrXVWWHhiMIdObNlXUL9NaEstYdO22cq21n9ewvIkMsuNRoKQYo01E0vDtbD7TCWwL6_WO0Q5DP5dPLeSCgXYC1ABL1ROiyG-GDMIVfTyb_-apMkyYwI_RWMS5EyNANSW-9IGkaCQ_UmwRkoCm4MIDRbYNVifjgn3tVCZZO8tC8eD1Hz0oo4f75QmX-QsZ73nlQKDPBX2ddKs9rn6sV0kU_08g-ToXyg63YBja5be7i71xUT_mc3AFdOGTW9lX4Ftw7GgpuxDybW-7XYOudMXndVzVpU9CvA5edK7QLnSkaliakAcPwm2ZpJAKHB4LgkA4CpyA5VsHqMNBUYs_DTrVVQpttLUxPJVbImrKF9A-rGuTIVfvhU1KnZUy4JiYfr3085CYc1q9hOCJF6778O4PzL85slkTsMOh9RI5UgXxm5snPcV9CQEPbpCl2EAgz48z7Y4e1l0Abt8jeQWFcOpfJKQhXHHTP7ME2Vvoy0)
 
+
 **Эскизы интерфейса**:
 ------------------------------
 
@@ -81,3 +82,13 @@
 
 <img width="4238" height="3130" alt="image" src="https://github.com/user-attachments/assets/82d13d7f-713a-46ea-b5aa-4429003dbfbd" />
 
+Диаграмма состояний сущности "Запись на прием":
+------------------------------
+
+Для сущности "Запись на прием" был определён следующий жизненный цикл:
+
+1. Создана
+2. Подтверждена
+3. Активна
+4. Завершена
+5. Отменена
